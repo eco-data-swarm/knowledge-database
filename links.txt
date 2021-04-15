@@ -7,3 +7,4 @@ https://www.umweltbundesamt.de/app-luftqualitaet
 https://creativecommons.org/licenses/by-nc-sa/2.0/de/
 https://opensensemap.org/
 https://luftdaten.info/
+http://making-sense.eu/wp-content/uploads/2018/01/Citizen-Sensing-A-Toolkit.pdf
